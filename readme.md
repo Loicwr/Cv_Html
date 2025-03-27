@@ -6,3 +6,10 @@ Bienvenue sur mon CV en HTML ! Ce projet est une page web simple présentant mon
 ## 🏗️ Structure du projet
 
 Le CV est construit en utilisant uniquement du HTML et est organisé en deux colonnes principales :
+
+📌 **Colonne gauche** (informations personnelles) :
+- Photo de profil 📷
+- Informations personnelles ℹ️
+- Compétences techniques 💻
+- Langues 🌍
+- Centres d'intérêt 🎯

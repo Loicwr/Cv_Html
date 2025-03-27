@@ -13,3 +13,9 @@ Le CV est construit en utilisant uniquement du HTML et est organisé en deux col
 - Compétences techniques 💻
 - Langues 🌍
 - Centres d'intérêt 🎯
+
+📌 **Colonne droite** (parcours professionnel) :
+- Nom et titre professionnel 🎓
+- Profil 👨‍💻
+- Formation 🎓
+- Expériences professionnelles 💼

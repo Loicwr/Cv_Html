@@ -19,3 +19,12 @@ Le CV est construit en utilisant uniquement du HTML et est organisé en deux col
 - Profil 👨‍💻
 - Formation 🎓
 - Expériences professionnelles 💼
+
+---
+
+## 🎨 Améliorations possibles
+
+✨ **Ajout de styles CSS** pour une meilleure mise en page :
+- Une meilleure typographie 🖋️
+- Une mise en page plus moderne avec `flexbox` ou `grid` 🎨
+- Des couleurs harmonieuses 🎨
